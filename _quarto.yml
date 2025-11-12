@@ -3,20 +3,23 @@ project:
   output-dir: docs
 
 website:
-  title: "Aic14.github.io"
+  title: "Aic14.github.io" 
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - resume.qmd
+      - resources.qmd
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - pulse
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
+
 

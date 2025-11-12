@@ -1,11 +1,22 @@
 ---
-title: "Aic14.github.io"
+title: "Aichen Cholymay Rayphand"
+image: media/IMG_6751.JPG
+
+about:
+  template: jolla
+  image-shape: rounded
+  image-width: 400px
+  links: 
+    - text: Email
+      href: mailto:aichencholymayrayphandxhs@gmail.com
+    - text: Github
+      href: https://github.com/Aic14
+    - text: Instagram
+      href: https://www.instagram.com/chxn.rayy/  
 ---
 
-This is a Quarto website.
+# **Kamorale!**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+#### **thank you for stumbling upon my page.**
 
-```{r}
-1 + 1 
-```
+My name is Aichen Cholymay Rayphand and I am from the beautiful islands of Chuuk state which is part of the Federated States of Micronesia, but was born in Oahu, Hawaii. I am currently in my second year of college majoring in Data Science (DSAV) at Chaminade University of Honolulu. I love everything "art", whether it's music, poetry, history, tradition, dances, etc. Art allows me to fully express myself , my thoughts, and my beliefs. I have always wanted to try new things, and this website is just the beginning!!

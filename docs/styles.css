@@ -1,1 +1,7 @@
 /* css styles */
+embed {
+  display: block;
+  margin: 30px auto;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+}

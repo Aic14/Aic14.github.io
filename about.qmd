@@ -2,8 +2,14 @@
 title: "About"
 ---
 
-About this site
+This site serves as an introduction and open portfolio of the author. Featuring a variety of past and present work, that she feels best represents her interests, skills, and creativity. This open-porfolio is still a work in progress- the sole purpose of this website is to continuously add more work and other things that not only gives an insight to the author, but can also be used for future reference.
 
-```{r}
-1 + 1
-```
+The goal is to try new things, explore, dive deeper, and fully become the best version of myself! What I get to create throughout new experiences in the following course of my life will be displayed here. The website will display past arts and project, introduction of the Authors culture, new finds, and more that will be coming soon.
+
+Feel free to always stop by, as the website will continue to grow and evolve over time . Consider this a vlog and a glimpse of getting to know me, but in website form. The site is pretty messy and all over the place, just like the author hehe!
+
+#### Creators note:
+
+Hey! before you dive deeper into my world of what I consider "art", know that some things may be controversial, but they are what I stand on. Please feel free to have opinions when viewing, I mean- that's what arts all about right!? "To see from different perspectives". We're keeping it as real and authentic as possible. Hope you enjoy!
+
+### 
